@@ -1,6 +1,6 @@
 # Advanced house price prediction 
 ## Goal
-- predict house prices
+- predict house prices using machine learning
 - Compare multiple regression models
 - Find which makes the price to increase and where the model fail
 
@@ -9,11 +9,10 @@
 - Which features consistently matter?
 - Do models behave differentlt by location or price range?
 
-## Data Set
 
 ## Notebooks
-There acre four notebooks.
-1. data cleaning
+There are four main notebooks in this project.
+1. Data cleaning
 2. Exploratory data analysis
 3. Feature engineering
 4. Modeling
